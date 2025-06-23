@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* レスポンシブ用CSS Document */
+
+header .logo {
+	float: left;
+}
+nav ul li {
+	float: right;
+	font-size: 16px;
+	margin: 0 100px 20px 0;
+}
+nav ul {
+	list-style-type: none;
+}
+main.top {
+	clear: both;
+	font-size: 25px;
+	background-color: #A8D7DB;
+	padding: 50px;
+}
+main span {
+	font-size: 20px;
+}
+#about h1 {
+	background: #A8D7DB;
+	padding: 10px;
+}
+#about .profile_photo {
+	margin: 10px 0 10px;
+	width: 80%;
+	height: 80%;
+}
+#about h2,#about p {
+	padding: 10px;
+	width: 80%;
+}
+.skill h1 {
+	clear: both;
+	background: #A8D7DB;
+	padding: 10px;
+}
+.skill-contents1,.skill-contents2 {
+	padding: 10px;
+	border: 3px dotted #A8D7DB;
+	width: 80%;
+	margin-bottom: 20px;
+}
+.tool-inner {
+	background: #A8D7DB;
+	padding: 10px;
+}
+#works h1 {
+	background: #A8D7DB;
+	padding: 10px;
+}
+.work_img {
+	border: 25px solid #A8D7DB;
+	width: 60%;
+	height: 60%;
+}
+.work-detail {
+	padding: 10px;
+	border: 3px dotted #A8D7DB;
+	width: 80%;
+}
+footer .footer_logo {
+	float: left;
+}
+.footer_nav ul li {
+	float: right;
+	margin: 0 100px 20px 0;
+	font-size: 16px;
+}
+.footer_nav ul {
+	list-style-type: none;
+}
+footer .copyright {
+	clear: both;
+	text-align: center;
+}
