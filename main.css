@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+header .logo {
+	float: left;
+	margin: 0 100px 50px;
+}
+nav ul li {
+	float: right;
+	margin: 0 100px 50px 0;
+	font-size: 20px;
+}
+nav ul {
+	list-style-type: none;
+}
+main.top {
+	clear: both;
+	font-size: 50px;
+	background-color: #A8D7DB;
+	margin: 100px;
+	padding: 100px;
+}
+main span {
+	font-size: 20px;
+}
+#about h1 {
+	margin: 10px 100px 10px;
+	background: #A8D7DB;
+	padding: 10px;
+}
+#about .profile_photo {
+	float: left;
+	margin: 10px 20px 30px 100px;
+}
+#about h2 {
+	padding: 10px;
+	margin: 10px 100px 0;
+}
+#about p {
+	padding: 0px;
+	margin: 30px 100px 0;
+	font-size: 16px;
+}
+.skill h1 {
+	clear: both;
+	margin: 100px 100px 30px;
+	background: #A8D7DB;
+	padding: 10px;
+}
+.skill-contents1 {
+	margin: 10px 100px 30px;
+	padding: 20px;
+	border: 3px dotted #A8D7DB;
+}
+.skill-contents2 {
+	margin: 10px 100px 30px;
+	padding: 20px;
+	border: 3px dotted #A8D7DB;
+}
+.tool-inner {
+	background: #A8D7DB;
+	padding: 20px;
+}
+#works h1 {
+	margin: 100px 100px 20px;
+	background: #A8D7DB;
+	padding: 10px;
+}
+.work_img {
+	border: 50px solid #A8D7DB;
+	margin: 20px 100px 20px;
+}
+.work-detail {
+	margin: 10px 100px 30px;
+	padding: 20px;
+	border: 3px dotted #A8D7DB;
+}
+footer .footer_logo {
+	float: left;
+	margin: 0 100px 50px;
+}
+.footer_nav ul li {
+	float: right;
+	margin: 0 100px 50px 0;
+	font-size: 20px;
+}
+.footer_nav ul {
+	list-style-type: none;
+}
+footer .copyright {
+	clear: both;
+	text-align: center;
+}
