@@ -9,6 +9,8 @@ nav ul li {
 	float: right;
 	margin: 0 100px 50px 0;
 	font-size: 20px;
+	background-color: #A8D7DB;
+	border-radius: 5px;
 }
 nav ul {
 	list-style-type: none;
