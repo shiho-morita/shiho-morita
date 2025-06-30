@@ -32,6 +32,7 @@ main span {
 #about .profile_photo {
 	margin: 10px 0 10px;
 	width: 50%;
+	height: 50%;
 }
 #about h2,#about p {
 	padding: 10px;
@@ -57,6 +58,7 @@ main span {
 .work_img {
 	border: 25px solid #A8D7DB;
 	width: 50%;
+	height: 50%;
 }
 .work-detail {
 	padding: 10px;
