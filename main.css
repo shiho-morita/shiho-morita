@@ -86,6 +86,9 @@ footer .footer_logo {
 	float: right;
 	margin: 0 100px 50px 0;
 	font-size: 20px;
+	background-color: #A8D7DB;
+	border-radius: 5px;
+	padding: 5px;
 }
 .footer_nav ul {
 	list-style-type: none;
