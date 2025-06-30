@@ -11,6 +11,7 @@ nav ul li {
 	font-size: 20px;
 	background-color: #A8D7DB;
 	border-radius: 5px;
+	padding: 5px;
 }
 nav ul {
 	list-style-type: none;
