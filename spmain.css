@@ -8,6 +8,8 @@ nav ul li {
 	float: right;
 	font-size: 16px;
 	margin: 0 100px 20px 0;
+	background-color: #A8D7DB;
+	border-radius: 5px;
 }
 nav ul {
 	list-style-type: none;
