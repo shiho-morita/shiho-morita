@@ -12,6 +12,7 @@ nav ul li {
 	background-color: #A8D7DB;
 	border-radius: 5px;
 	padding: 5px;
+	text-decoration: none;
 }
 nav ul {
 	list-style-type: none;
@@ -89,6 +90,7 @@ footer .footer_logo {
 	background-color: #A8D7DB;
 	border-radius: 5px;
 	padding: 5px;
+	text-decoration: none;
 }
 .footer_nav ul {
 	list-style-type: none;
