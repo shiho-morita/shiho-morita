@@ -13,9 +13,6 @@ nav ul li {
 	border-radius: 5px;
 	padding: 5px;
 }
-nav ul li a {
-	text-decoration: none;
-}
 nav ul {
 	list-style-type: none;
 	text-decoration: none;
@@ -97,6 +94,7 @@ footer .footer_logo {
 }
 .footer_nav ul {
 	list-style-type: none;
+	text-decoration: none;
 }
 footer .copyright {
 	clear: both;
