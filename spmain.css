@@ -30,12 +30,9 @@ main span {
 }
 #about .profile_photo {
 	margin: 10px 0 10px;
-	width: 100%;
-	height: 100%;
 }
 #about h2,#about p {
 	padding: 10px;
-	width: 80%;
 }
 .skill h1 {
 	clear: both;
@@ -45,7 +42,6 @@ main span {
 .skill-contents1,.skill-contents2 {
 	padding: 10px;
 	border: 3px dotted #A8D7DB;
-	width: 100%;
 	margin-bottom: 20px;
 }
 .tool-inner {
@@ -58,13 +54,10 @@ main span {
 }
 .work_img {
 	border: 25px solid #A8D7DB;
-	width: 80%;
-	height: 80%;
 }
 .work-detail {
 	padding: 10px;
 	border: 3px dotted #A8D7DB;
-	width: 100%;
 }
 footer .footer_logo {
 	float: left;
