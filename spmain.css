@@ -7,7 +7,7 @@ header .logo {
 nav ul li {
 	float: right;
 	font-size: 16px;
-	margin: 0 20px 20px 0;
+	margin: 0 0 30px 0;
 	background-color: #A8D7DB;
 	border-radius: 5px;
 	padding: 5px;
@@ -71,7 +71,7 @@ footer .footer_logo {
 }
 .footer_nav ul li {
 	float: right;
-	margin: 0 20px 20px 0;
+	margin: 0 0 30px 0;
 	font-size: 16px;
 	background-color: #A8D7DB;
 	border-radius: 5px;
