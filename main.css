@@ -34,11 +34,11 @@ main span {
 }
 #about .profile_photo {
 	float: left;
-	margin: 10px 20px 30px 100px;
+	margin: 30px 20px 200px 100px;
 }
 #about h2 {
 	padding: 10px;
-	margin: 10px 100px 0;
+	margin: 30px 100px 0;
 }
 #about p {
 	padding: 0px;
