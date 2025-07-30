@@ -38,6 +38,7 @@ main span {
 }
 .profile_desc{
 	width: 489px;
+	padding: 0;
 }
 #about h2 {
 	padding: 10px;
