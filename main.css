@@ -35,6 +35,7 @@ main span {
 #about .profile_photo {
 	float: left;
 	margin: 30px 20px 200px 100px;
+	width: 50%;
 }
 #about h2 {
 	padding: 10px;
