@@ -43,8 +43,8 @@ main span {
 }
 #about p {
 	padding: 0px;
-	margin: 30px 100px 0;
-	font-size: 16px;
+	margin: 30px 100px;
+	font-size: 14px;
 }
 .skill h1 {
 	clear: both;
