@@ -38,6 +38,9 @@ main span {
 	float: left;
 	margin: 30px 20px 200px 100px;
 }
+#about .profile_desc {
+	float: right;
+}
 #about h2 {
 	padding: 10px;
 	margin: 30px 100px 0;
