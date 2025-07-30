@@ -38,6 +38,9 @@ main span {
 	float:left;
 	margin: 30px 20px 0 100px;
 }
+#profile_text {
+	display:block;
+}
 #about h2 {
 	margin: 30px 100px 0;
 }
