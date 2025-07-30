@@ -1,6 +1,8 @@
 @charset "utf-8";
 /* レスポンシブ用CSS Document */
-
+body{
+	background-color: f8fbff;
+}
 header .logo {
 	float: left;
 }
