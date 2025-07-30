@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background-color: f8fbff;
+	background-color: #f3f2e9;
 }
 header .logo {
 	float: left;
@@ -35,10 +35,8 @@ main span {
 	padding: 10px;
 }
 #about .profile_photo {
+	
 	margin: 30px 20px 0 100px;
-}
-#about .profile_desc {
-	float: right;
 }
 #about h2 {
 	margin: 30px 100px 0;
