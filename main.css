@@ -35,11 +35,9 @@ main span {
 	padding: 10px;
 }
 #about .profile_photo {
-	float: left;
 	margin: 30px 20px 200px 100px;
 }
 #about .profile_desc {
-	clear:both;
 	float: right;
 }
 #about h2 {
